@@ -30,3 +30,9 @@ article {
 footer {
     background-color: green;
 } 
+
+footer ul {
+    flex-direction: column;
+}
+
+ 

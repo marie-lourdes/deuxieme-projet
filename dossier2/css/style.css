@@ -1,3 +1,19 @@
+header {
+    background-color: green;
+}
+
+nav {
+    display: flex;
+}
+
+ul {
+    display: flex;
+    
+}
+ul li {
+    margin-right: 20px;
+}
+
 .main-content {
     background-color: orange;
     color: white;
@@ -7,6 +23,10 @@ aside {
     background-color: brown;
 }
 
+article {
+    background-color: blue;
+}
+
 footer {
     background-color: green;
-}
+} 

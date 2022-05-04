@@ -18,6 +18,9 @@ ul li {
     background-color: orange;
     color: white;
 }
+h1 { 
+    color:red;
+}
 
 aside {
     background-color: brown;
